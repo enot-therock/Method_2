@@ -50,6 +50,9 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
+        System.out.println("Hello world!");
+
         printTask(0);
 
         int year = 2012;
